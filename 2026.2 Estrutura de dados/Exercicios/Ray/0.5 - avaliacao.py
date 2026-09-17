@@ -26,8 +26,6 @@ def exibirAcoes():
     print("""Operações disponpíveis para realizar com seu vetor ou CTRL + C para SAIR!!
 1 - Alterar Vetor
 2 - Mostrar Vetor\n""")
-
-exibirAcoes()
     
 
 if __name__ == "__main__":
